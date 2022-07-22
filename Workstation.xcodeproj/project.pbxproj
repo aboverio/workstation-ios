@@ -14,6 +14,27 @@
 		A561943D28889746002DACD6 /* WorkstationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A561943C28889746002DACD6 /* WorkstationTests.swift */; };
 		A561944728889746002DACD6 /* WorkstationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A561944628889746002DACD6 /* WorkstationUITests.swift */; };
 		A561944928889746002DACD6 /* WorkstationUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A561944828889746002DACD6 /* WorkstationUITestsLaunchTests.swift */; };
+		A561945B288898D6002DACD6 /* AuthEmailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A561945A288898D6002DACD6 /* AuthEmailView.swift */; };
+		A561945C288898D6002DACD6 /* AuthEmailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A561945A288898D6002DACD6 /* AuthEmailView.swift */; };
+		A561945D288898D6002DACD6 /* AuthEmailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A561945A288898D6002DACD6 /* AuthEmailView.swift */; };
+		A561945F288898F8002DACD6 /* AuthEmailSignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A561945E288898F8002DACD6 /* AuthEmailSignUpView.swift */; };
+		A5619460288898F8002DACD6 /* AuthEmailSignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A561945E288898F8002DACD6 /* AuthEmailSignUpView.swift */; };
+		A5619461288898F8002DACD6 /* AuthEmailSignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A561945E288898F8002DACD6 /* AuthEmailSignUpView.swift */; };
+		A561946428889927002DACD6 /* ProfileViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = A561946328889927002DACD6 /* ProfileViews.swift */; };
+		A561946528889927002DACD6 /* ProfileViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = A561946328889927002DACD6 /* ProfileViews.swift */; };
+		A561946628889927002DACD6 /* ProfileViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = A561946328889927002DACD6 /* ProfileViews.swift */; };
+		A56194692888993F002DACD6 /* TodoListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A56194682888993F002DACD6 /* TodoListView.swift */; };
+		A561946A2888993F002DACD6 /* TodoListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A56194682888993F002DACD6 /* TodoListView.swift */; };
+		A561946B2888993F002DACD6 /* TodoListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A56194682888993F002DACD6 /* TodoListView.swift */; };
+		A56194892888A593002DACD6 /* SwiftTheming in Frameworks */ = {isa = PBXBuildFile; productRef = A56194882888A593002DACD6 /* SwiftTheming */; };
+		A561948C2888A5AC002DACD6 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = A561948B2888A5AC002DACD6 /* Theme.swift */; };
+		A561948D2888A5AC002DACD6 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = A561948B2888A5AC002DACD6 /* Theme.swift */; };
+		A561948E2888A5AC002DACD6 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = A561948B2888A5AC002DACD6 /* Theme.swift */; };
+		A56194912888ADAA002DACD6 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A56194902888ADAA002DACD6 /* WelcomeView.swift */; };
+		A561949F28899AA9002DACD6 /* AuthEmailSignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A561949E28899AA9002DACD6 /* AuthEmailSignInView.swift */; };
+		A56194A028899AA9002DACD6 /* AuthEmailSignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A561949E28899AA9002DACD6 /* AuthEmailSignInView.swift */; };
+		A56194A128899AA9002DACD6 /* AuthEmailSignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A561949E28899AA9002DACD6 /* AuthEmailSignInView.swift */; };
+		A56194A42889B384002DACD6 /* Focuser in Frameworks */ = {isa = PBXBuildFile; productRef = A56194A32889B384002DACD6 /* Focuser */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +65,13 @@
 		A561944228889746002DACD6 /* WorkstationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WorkstationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A561944628889746002DACD6 /* WorkstationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkstationUITests.swift; sourceTree = "<group>"; };
 		A561944828889746002DACD6 /* WorkstationUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkstationUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A561945A288898D6002DACD6 /* AuthEmailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthEmailView.swift; sourceTree = "<group>"; };
+		A561945E288898F8002DACD6 /* AuthEmailSignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthEmailSignUpView.swift; sourceTree = "<group>"; };
+		A561946328889927002DACD6 /* ProfileViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViews.swift; sourceTree = "<group>"; };
+		A56194682888993F002DACD6 /* TodoListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoListView.swift; sourceTree = "<group>"; };
+		A561948B2888A5AC002DACD6 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
+		A56194902888ADAA002DACD6 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		A561949E28899AA9002DACD6 /* AuthEmailSignInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthEmailSignInView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +79,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A56194A42889B384002DACD6 /* Focuser in Frameworks */,
+				A56194892888A593002DACD6 /* SwiftTheming in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +108,7 @@
 				A561943B28889746002DACD6 /* WorkstationTests */,
 				A561944528889746002DACD6 /* WorkstationUITests */,
 				A561942928889744002DACD6 /* Products */,
+				A56194852888A586002DACD6 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -94,6 +125,11 @@
 		A561942A28889744002DACD6 /* Workstation */ = {
 			isa = PBXGroup;
 			children = (
+				A561946C28889994002DACD6 /* Services */,
+				A561945828889898002DACD6 /* Resources */,
+				A56194572888988B002DACD6 /* Helpers */,
+				A561945628889881002DACD6 /* Views */,
+				A56194552888987B002DACD6 /* Models */,
 				A561942B28889744002DACD6 /* WorkstationApp.swift */,
 				A561942D28889744002DACD6 /* ContentView.swift */,
 				A561942F28889746002DACD6 /* Assets.xcassets */,
@@ -127,6 +163,87 @@
 			path = WorkstationUITests;
 			sourceTree = "<group>";
 		};
+		A56194552888987B002DACD6 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		A561945628889881002DACD6 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				A561948F2888AD91002DACD6 /* OnBoarding */,
+				A56194672888992A002DACD6 /* Todo */,
+				A561946228889902002DACD6 /* User */,
+				A5619459288898BB002DACD6 /* Auth */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		A56194572888988B002DACD6 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		A561945828889898002DACD6 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A561948B2888A5AC002DACD6 /* Theme.swift */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		A5619459288898BB002DACD6 /* Auth */ = {
+			isa = PBXGroup;
+			children = (
+				A561945A288898D6002DACD6 /* AuthEmailView.swift */,
+				A561945E288898F8002DACD6 /* AuthEmailSignUpView.swift */,
+				A561949E28899AA9002DACD6 /* AuthEmailSignInView.swift */,
+			);
+			path = Auth;
+			sourceTree = "<group>";
+		};
+		A561946228889902002DACD6 /* User */ = {
+			isa = PBXGroup;
+			children = (
+				A561946328889927002DACD6 /* ProfileViews.swift */,
+			);
+			path = User;
+			sourceTree = "<group>";
+		};
+		A56194672888992A002DACD6 /* Todo */ = {
+			isa = PBXGroup;
+			children = (
+				A56194682888993F002DACD6 /* TodoListView.swift */,
+			);
+			path = Todo;
+			sourceTree = "<group>";
+		};
+		A561946C28889994002DACD6 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		A56194852888A586002DACD6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A561948F2888AD91002DACD6 /* OnBoarding */ = {
+			isa = PBXGroup;
+			children = (
+				A56194902888ADAA002DACD6 /* WelcomeView.swift */,
+			);
+			path = OnBoarding;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -143,6 +260,10 @@
 			dependencies = (
 			);
 			name = Workstation;
+			packageProductDependencies = (
+				A56194882888A593002DACD6 /* SwiftTheming */,
+				A56194A32889B384002DACD6 /* Focuser */,
+			);
 			productName = Workstation;
 			productReference = A561942828889744002DACD6 /* Workstation.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +336,10 @@
 				Base,
 			);
 			mainGroup = A561941F28889744002DACD6;
+			packageReferences = (
+				A561947328889D48002DACD6 /* XCRemoteSwiftPackageReference "SwiftTheming" */,
+				A56194A22889B384002DACD6 /* XCRemoteSwiftPackageReference "swift-focuser" */,
+			);
 			productRefGroup = A561942928889744002DACD6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -257,8 +382,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A561945F288898F8002DACD6 /* AuthEmailSignUpView.swift in Sources */,
+				A561945B288898D6002DACD6 /* AuthEmailView.swift in Sources */,
+				A561949F28899AA9002DACD6 /* AuthEmailSignInView.swift in Sources */,
+				A56194692888993F002DACD6 /* TodoListView.swift in Sources */,
+				A56194912888ADAA002DACD6 /* WelcomeView.swift in Sources */,
+				A561946428889927002DACD6 /* ProfileViews.swift in Sources */,
 				A561942E28889744002DACD6 /* ContentView.swift in Sources */,
 				A561942C28889744002DACD6 /* WorkstationApp.swift in Sources */,
+				A561948C2888A5AC002DACD6 /* Theme.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,7 +398,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A561946528889927002DACD6 /* ProfileViews.swift in Sources */,
+				A561945C288898D6002DACD6 /* AuthEmailView.swift in Sources */,
+				A561946A2888993F002DACD6 /* TodoListView.swift in Sources */,
+				A561948D2888A5AC002DACD6 /* Theme.swift in Sources */,
+				A5619460288898F8002DACD6 /* AuthEmailSignUpView.swift in Sources */,
 				A561943D28889746002DACD6 /* WorkstationTests.swift in Sources */,
+				A56194A028899AA9002DACD6 /* AuthEmailSignInView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,8 +412,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5619461288898F8002DACD6 /* AuthEmailSignUpView.swift in Sources */,
+				A56194A128899AA9002DACD6 /* AuthEmailSignInView.swift in Sources */,
+				A561945D288898D6002DACD6 /* AuthEmailView.swift in Sources */,
+				A561946B2888993F002DACD6 /* TodoListView.swift in Sources */,
+				A561946628889927002DACD6 /* ProfileViews.swift in Sources */,
 				A561944928889746002DACD6 /* WorkstationUITestsLaunchTests.swift in Sources */,
 				A561944728889746002DACD6 /* WorkstationUITests.swift in Sources */,
+				A561948E2888A5AC002DACD6 /* Theme.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -429,8 +573,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = io.abover.Workstation;
+				MARKETING_VERSION = 0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = rafiandria23.workstation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -458,8 +602,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = io.abover.Workstation;
+				MARKETING_VERSION = 0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = rafiandria23.workstation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -583,6 +727,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		A561947328889D48002DACD6 /* XCRemoteSwiftPackageReference "SwiftTheming" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/dscyrescotti/SwiftTheming.git";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+		A56194A22889B384002DACD6 /* XCRemoteSwiftPackageReference "swift-focuser" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/art-technologies/swift-focuser";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.2.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		A56194882888A593002DACD6 /* SwiftTheming */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A561947328889D48002DACD6 /* XCRemoteSwiftPackageReference "SwiftTheming" */;
+			productName = SwiftTheming;
+		};
+		A56194A32889B384002DACD6 /* Focuser */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A56194A22889B384002DACD6 /* XCRemoteSwiftPackageReference "swift-focuser" */;
+			productName = Focuser;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = A561942028889744002DACD6 /* Project object */;
 }
